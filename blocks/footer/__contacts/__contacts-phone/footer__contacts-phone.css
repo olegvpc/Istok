@@ -1,0 +1,9 @@
+.footer__contacts-phone {
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    /*border: 1px solid green;*/
+    font-family: Rosatom;
+    font-size: 15px;
+    line-height: 1.2;
+}

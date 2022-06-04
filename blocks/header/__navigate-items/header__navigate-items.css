@@ -1,0 +1,10 @@
+.header__navigate-items {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: baseline;
+    list-style: none;
+    padding: 0; /* автоматом ставит 20 */
+    margin: 10px auto;
+    /*border: 1px dashed red;*/
+}

@@ -1,0 +1,48 @@
+@import "../vendors/normalize.css";
+@import "../vendors/normalize.css";
+
+@import "../blocks/page/page.css";
+@import "../blocks/page/__header/page__header.css";
+@import "../blocks/page/__header-top/page__header-top.css";
+@import "../blocks/page/__content/page__content.css";
+@import "../blocks/header/header.css";
+@import "../blocks/header/__logo/header__logo-istok.css";
+@import "../blocks/header/__logo/header__logo-title.css";
+@import "../blocks/header/__logo/header__logo_bold.css";
+@import "../blocks/header/__logo/header__logo-vertical-line.css";
+@import "../blocks/header/__logo/header__logo-rosatom_font.css";
+@import "../blocks/header/__logo/header__logo-istok_font.css";
+
+@import "../blocks/header/__description/header__description.css";
+@import "../blocks/header/__description/header__description-title.css";
+@import "../blocks/header/__navigate-items/header__navigate-items.css";
+@import "../blocks/header/__navigate-item/header__navigate-item.css";
+@import "../blocks/header/__navigate-title/header__navigate-title.css";
+@import "../blocks/header/__navigate-link/header__navigate-link.css";
+@import "../blocks/header/__navigate-submenu/header__navigate-submenu.css";
+@import "../blocks/visible.css";
+@import "../blocks/header/__navigate-submenu/__navigate-submenu_list/header__navigate-submenu_list.css";
+@import "../blocks/header/__navigate-submenu/header__navigate-submenu-item.css";
+
+@import "../blocks/main/__content/main__content.css";
+@import "../blocks/intro/intro.css";
+@import "../blocks/intro/__article/intro__article.css";
+@import "../blocks/intro/_title/intro__title.css";
+@import "../blocks/intro/__text/intro__text.css";
+@import "../blocks/intro/__list/intro_list.css";
+@import "../blocks/intro/__span-accent/intro__span-accent.css";
+
+@import "../blocks/page/__footer/page__footer.css";
+@import "../blocks/footer/footer.css";
+@import "../blocks/footer/__contacts/footer__contacts.css";
+@import "../blocks/footer/__contacts/__contacts_address/footer__contacts-adress.css";
+@import "../blocks/footer/__contacts/__contacts-logo/footer__contacts-logo.css";
+@import "../blocks/footer/__contacts/__contacts-phone/footer__contacts-phone.css";
+@import "../blocks/footer/__contacts/__contacts-map/footer__contacts-map.css";
+
+@import "../blocks/footer/__copyright/footer__copyright.css";
+
+
+
+
+

@@ -1,0 +1,10 @@
+.header__logo-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  heigth: 80%;
+  font-weight: 400;
+  font-family: "Rosatom"
+}
+

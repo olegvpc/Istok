@@ -1,0 +1,13 @@
+.header__description-title {
+    font-family: "Rosatom";
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 1.25;
+    text-transform: uppercase;
+}
+
+@media screen and (max-width: 568px) {
+  .header__description-title {
+    font-size: 15px;
+  }
+}

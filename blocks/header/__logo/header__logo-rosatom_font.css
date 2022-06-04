@@ -1,0 +1,11 @@
+.header__logo-rosatom_font {
+  font-size: 15px;
+  letter-spacing: 2px;
+  color: #6CACE4;
+}
+
+@media screen and (max-width: 568px) {
+  .header__logo-rosatom_font {
+    font-size: 12px;
+  }
+}
